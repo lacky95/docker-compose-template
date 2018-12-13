@@ -1,3 +1,4 @@
 data/*
 logs/*
-!*.gitkeep
+!data/.gitkeep
+!data/confluence/.gitkeep
